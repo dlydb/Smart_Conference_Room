@@ -11,4 +11,11 @@ The project is to development a method for real-time person tracking and coarse 
 [Room 3](https://github.com/dlydb/Smart_Conference_Room/blob/master/room_3_top.PNG)
 Room 3 is built based on real room on CII LESA office suit, RPI
 
-[Simulation 3](https://www.youtube.com/watch?v=5k3_yrEZ4D0)
+[Simulation 3](https://www.youtube.com/watch?v=5k3_yrEZ4D0) 
+All the sensors placed in the room are based on the position in real room. 
+
+Simulation helps imporving the algorithm and locate sensors position where the energy is most efficient. 
+
+[Poster](https://github.com/dlydb/Smart_Conference_Room/blob/master/Poster.pdf)
+
+[VR environment](https://www.youtube.com/watch?v=dXi_tMlYm2w)
